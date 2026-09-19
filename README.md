@@ -7,7 +7,7 @@ A assistente virtual **Bibi** foi programada com uma **Base de Conhecimento Fech
 
 ###  Funcionalidades Principais
 * **Apresentação e Identidade:** Apresenta-se como Bibi, assistente do SmartWay.
-* **Respostas Baseadas em Contexto:** Fornece detalhes sobre o aplicativo (onboarding, mobilidade, regras) e sua tecnologias (React Native, Java, PostgreSQL).
+* **Respostas Baseadas em Contexto:** Fornece detalhes sobre o aplicativo (onboarding, mobilidade, regras) e suas tecnologias (React Native, Java, PostgreSQL).
 * **Bloqueio de Alucinação:** Responde exatamente *"Desculpe, não possuo informações sobre esse assunto."* caso a dúvida não esteja na base.
 * **Controle de Sessão e Resumo Automático:** Limita a conversa a exatas **3 interações**, gerando um resumo consolidado das dúvidas ao final da 3ª resposta e encerrando o atendimento.
 
