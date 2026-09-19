@@ -2,7 +2,7 @@ from google import genai
 from google.genai import types
 from google.colab import userdata
 
-GOOGLE_API_KEY = userdata.get('FATEC_IA')
+GOOGLE_API_KEY = userdata.get('GOOGLE_API_KEY')
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
 SYSTEM_INSTRUCTION = """
